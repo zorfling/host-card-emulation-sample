@@ -1,3 +1,8 @@
-bin
-gen
-target
+.gradle
+.idea
+gradle
+gradlew*
+*.un~
+*/build/
+*.iml
+local.properties
